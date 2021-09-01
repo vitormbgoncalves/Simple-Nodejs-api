@@ -26,32 +26,32 @@ Este projeto disponibiliza uma API REST desenvolvida com NodeJS e MongoDB, e pos
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Yarn](https://yarnpkg.com/): gerenciador de pacotes para JavaScript.
-- [Docker](https://www.docker.com/): plataforma para disponibilizar aplicações através de containers.
-- [MongoDB](https://www.mongodb.com/): banco de dados NoSQL.
-- [Mongoose](https://mongoosejs.com/): ferramenta para mapeamento objeto-documento.
-- [Robo 3T](https://robomongo.org/): ferramenta gráfica para gerenciamento do MongoDB.
-- [Node](https://nodejs.org/en/): runtime para execução de código JavaScript do lado do servidor.
-- [Express](https://expressjs.com/pt-br/): framework JavaScript para criação de aplicações backend.
-- [Insomnia](https://insomnia.rest/): cliente para testes e documentação de APIs REST.
+- [Yarn](https://yarnpkg.com/): gerenciador de pacotes para JavaScript;
+- [Docker](https://www.docker.com/): plataforma para disponibilizar aplicações através de containers;
+- [MongoDB](https://www.mongodb.com/): banco de dados NoSQL;
+- [Mongoose](https://mongoosejs.com/): ferramenta para mapeamento objeto-documento;
+- [Robo 3T](https://robomongo.org/): ferramenta gráfica para gerenciamento do MongoDB;
+- [Node](https://nodejs.org/en/): runtime para execução de código JavaScript do lado do servidor;
+- [Express](https://expressjs.com/pt-br/): framework JavaScript para criação de aplicações backend;
+- [Insomnia](https://insomnia.rest/): cliente para testes e documentação de APIs REST;
 - [CORS](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS): mecanismo utilizado pelos navegadores para compartilhar recursos entre diferentes origens.
 
 ## 💻 Execução
 
-1. Clone o projeto git através do terminal;
+1. Clone o projeto git através do terminal:
 
 ```shell
 git clone https://github.com/vitormbgoncalves/simple-node-api.git
 cd simple-node-api
 ```
 
-2. Para instalar todas dependências do projeto execute o comando abaixo;
+2. Para instalar todas dependências do projeto execute o comando abaixo:
 
 ```shell
 yarn
 ```
 
-3. Para iniciar a aplicação execute o comando abaixo
+3. Para iniciar a aplicação execute o comando abaixo:
 
 ```shell
 yarn dev
